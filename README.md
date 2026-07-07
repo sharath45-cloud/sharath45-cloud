@@ -30,7 +30,7 @@ An aspiring **Computer Science & Engineering** graduate focused on turning compl
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gade-sharath/" target="_blank">
+  <a href="https://www.linkedin.com/in/gade-sharath-6a0a2b35b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA69%2B7snBR1SKen04sddC5A%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sharathchary45@gmail.com">
